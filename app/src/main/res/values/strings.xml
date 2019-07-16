@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Movies</string>
+
+    <!-- Label user rating [CHAR LIMIT=20] -->
+    <string name="user_rating">User Rating:</string>
+
+    <!-- Label release date [CHAR LIMIT=20] -->
+    <string name="release_date">Release Date:</string>
+
+    <!-- Label synopsis [CHAR LIMIT=20] -->
+    <string name="synopsis">Synopsis:</string>
+
+    <!-- Label trailer [CHAR LIMIT=20] -->
+    <string name="trailers">Trailers</string>
+
+    <!-- Label review [CHAR LIMIT=20] -->
+    <string name="reviews">Reviews</string>
+
+
+
+    <!-- Error message [CHAR LIMIT=20] -->
+    <string name="error_message">Error retrieving movies from server</string>
+
+    <!-- Add favorite movies [CHAR LIMIT=20] -->
+    <string name="add_favorite_movies">Add favorite movies tapping the heart icon</string>
+
+    <!-- Label popular movies [CHAR LIMIT=20] -->
+    <string name="popular_movies">Popular Movies</string>
+
+    <!-- Label top rated movies [CHAR LIMIT=20] -->
+    <string name="top_rated_movies">Top-Rated Movies</string>
+
+    <!-- Label favorite movies [CHAR LIMIT=20] -->
+    <string name="favorite_movies">Favorite Movies</string>
+
+    <string name="description">Description</string>
+    <string name="author">Name author</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+</resources>

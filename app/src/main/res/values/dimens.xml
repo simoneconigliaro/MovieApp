@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="height_trailer_image_view">100dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_bottom_backdrop">120dp</dimen>
+    <dimen name="margin_floating_action_button">16dp</dimen>
+    <dimen name="margin_poster">16dp</dimen>
+    <dimen name="margin_top_release_date">4dp</dimen>
+    <dimen name="margin_bottom_release_date">4dp</dimen>
+    <dimen name="margin_bottom_rating_bar">4dp</dimen>
+    <dimen name="width_progress_bar">42dp</dimen>
+    <dimen name="height_progress_bar">42dp</dimen>
+    <dimen name="margin_bottom_movie_list_item">8dp</dimen>
+    <dimen name="margin_left_movie_list_item">4dp</dimen>
+    <dimen name="margin_right_movie_list_item">4dp</dimen>
+    <dimen name="margin_bottom_review_list_item">20dp</dimen>
+    <dimen name="margin_bottom_tv_content">8dp</dimen>
+    <dimen name="margin_trailer_list_item">8dp</dimen>
+    <dimen name="margin_left_tv_overview">8dp</dimen>
+    <dimen name="margin_right_tv_overview">8dp</dimen>
+    <dimen name="margin_right_review_list_item">8dp</dimen>
+    <dimen name="margin_left_review_list_item">8dp</dimen>
+    <dimen name="height_background_image_land">200dp</dimen>
+</resources>
