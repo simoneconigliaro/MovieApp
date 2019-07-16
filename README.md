@@ -9,5 +9,5 @@
 ## Screenshot
 <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301244.png" width="280"/> <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301376.png" width="280"/> <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301425.png" width="280"/>
 ## Getting Started
-App uses The Movie Database API. You have to enter your API key in order to run the app. You can create your own one very easy! https://www.themoviedb.org/account/signup?language=en-EN. When you get it, just set it here: "popular-movies-app/gradle.properties"
+App uses The Movie Database API. You need an API key in order to run the app. You can get it <a href="https://www.themoviedb.org/account/signup?language=en-EN" target="_blank">here</a> and set it here: "popular-movies-app/gradle.properties"
 
