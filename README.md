@@ -9,5 +9,5 @@
 ## Screenshot
 <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301244.png" width="280"/> <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301376.png" width="280"/> <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301425.png" width="280"/>
 ## Getting Started
-The app uses The Movie Database API. You can get an API key <a href="https://www.themoviedb.org/account/signup?language=en-EN" target="_blank">here</a> and set it here in gradle.properties
+The app uses The Movie Database API. You can get an API key signing up <a href="https://www.themoviedb.org/account/signup?language=en-EN" target="_blank">here</a> and set it here in gradle.properties
 
