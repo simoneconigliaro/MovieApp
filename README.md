@@ -7,4 +7,4 @@
 - Always on the detail screen, the user can mark a movie as a favourite by tapping the heart icon and it will be stored in a local database. 
 - The app handles data persistence using a content provider and a sqlite database.
 ## Screenshot
-<img src="https://github.com/simoneconigliaro/android-inventory/blob/master/Screenshot_1552250092.png" width="280"/> <img src="https://github.com/simoneconigliaro/android-inventory/blob/master/Screenshot_1552250098.png" width="280"/> <img src="https://github.com/simoneconigliaro/android-inventory/blob/master/Screenshot_1552251039.png" width="280"/>
+<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301244.png" width="280"/> <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301376.png" width="280"/> <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301425.png" width="280"/>
