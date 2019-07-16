@@ -7,7 +7,7 @@
 - Always on the detail screen, the user can mark a movie as a favourite by tapping the heart icon and it will be stored in a local database. 
 - The app handles data persistence using a content provider and a sqlite database.
 ## Screenshot
-<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301244.png" width="280"/> <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301376.png" width="280"/> <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301425.png" width="280"/>
+<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301244.png" width="300"/> <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301376.png" width="300"/> <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1563301425.png" width="300"/>
 ## Getting Started
 App uses The Movie Database API. You have to enter your API key in order to run the app. You can create your own one very easy! https://www.themoviedb.org/account/signup?language=en-EN. When you get it, just set it here: "popular-movies-app/gradle.properties"
 
