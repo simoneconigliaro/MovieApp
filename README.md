@@ -1,4 +1,4 @@
-# Androd Popular Movies App
+# Android Popular Movies App
 - Popular Movies app for Udacity Android Developer Nanodegree
 ## Description
 - The app fetches movies from <a href="https://www.themoviedb.org" target="_blank">The Movie DB</a> showing to the user a scrolling grid of movie posters. 
