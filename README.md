@@ -7,8 +7,8 @@ Popular Movies app for Udacity Android Developer Nanodegree
 - Always on the detail screen, the user can mark a movie as a favourite by tapping the heart icon and it will be stored in a local database. 
 - The app handles data persistence using a content provider and a sqlite database.
 ## Screenshot
-<img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot01.png" width="250"/><img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot02.png" width="250"/><img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot03.png" width="250"/>
-<img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot04.png" width="400"/>
+<img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot01.png" width="300"/><img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot02.png" width="300"/><img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot03.png" width="300"/>
+<img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot04.png" width="1000"/>
 <img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot05.png" width="500"/>
 ## Getting Started
 The app uses The Movie Database API. You can get an API key signing up <a href="https://www.themoviedb.org/account/signup?language=en-EN" target="_blank">here</a> and set it here in gradle.properties
