@@ -6,6 +6,11 @@ Popular Movies app for Udacity Android Developer Nanodegree
 - Tapping on one of the posters will open a details screen with additional information such as original title, movie poster image thumbnail, synopsis, user rating, release date, trailers and reviews. 
 - Always on the detail screen, the user can mark a movie as a favourite by tapping the heart icon and it will be stored in a local database. 
 - The app handles data persistence using a content provider and a sqlite database.
+
+## Libraries
+- [Picasso](http://square.github.io/picasso/) for image loading
+- [Butterknife](https://jakewharton.github.io/butterknife/) for field and method binding for Android views
+
 ## Screenshot
 <img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot01.png" width="280"/>&nbsp;&nbsp;<img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot02.png" width="280"/>&nbsp;&nbsp;<img src="https://github.com/simoneconigliaro/android_baking_app/blob/master/screenshot03.png" width="280"/>
 
