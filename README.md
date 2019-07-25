@@ -11,7 +11,7 @@ Popular Movies app for Udacity Android Developer Nanodegree
 - [Picasso](http://square.github.io/picasso/) for image loading
 - [Butterknife](https://jakewharton.github.io/butterknife/) for field and method binding for Android views
 
-## Screenshot
+## Screenshots
 <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1.png" width="280"/>&nbsp;&nbsp;<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_2.png" width="280"/>&nbsp;&nbsp;<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_3.png" width="280"/>
 
 ## Getting Started
