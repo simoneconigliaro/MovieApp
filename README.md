@@ -15,5 +15,5 @@ Popular Movies app for Udacity Android Developer Nanodegree
 <img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1.png" width="280"/>&nbsp;&nbsp;<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_2.png" width="280"/>&nbsp;&nbsp;<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_3.png" width="280"/>
 
 ## Getting Started
-The app uses The Movie Database API. You can get an API key signing up <a href="https://www.themoviedb.org/account/signup?language=en-EN" target="_blank">here</a> and set it here in gradle.properties
+The app uses The Movie Database API. You can get an API key signing up <a href="https://www.themoviedb.org/account/signup?language=en-EN" target="_blank">here</a> and set it in gradle.properties
 
