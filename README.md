@@ -12,7 +12,9 @@ Popular Movies app for Udacity Android Developer Nanodegree
 - [Butterknife](https://jakewharton.github.io/butterknife/) for field and method binding for Android views
 
 ## Screenshots
-<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1.png" width="280"/>&nbsp;&nbsp;<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_2.png" width="280"/>&nbsp;&nbsp;<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_3.png" width="280"/>
+<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_1.png" width="270"/>&nbsp;
+<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_2.png" width="270"/>&nbsp;
+<img src="https://github.com/simoneconigliaro/android_movies/blob/master/Screenshot_3.png" width="270"/>
 
 ## Getting Started
 The app uses The Movie Database API. You can get an API key signing up <a href="https://www.themoviedb.org/account/signup?language=en-EN" target="_blank">here</a> and set it in gradle.properties
